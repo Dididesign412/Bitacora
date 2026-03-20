@@ -3,6 +3,9 @@
 - Markdown es un lenguaje de marcado ligero, forma de escribir texto con formato(negrita, titulos, listdo, etc.)
 - Para separar lineas o parrafos: Doble clic + enter
 - Para hacer una linea: --- + enter
+    * Ejemplo:
+      ---
+      
 - Para titulos: 
   # titulo
   ## titulo 2

@@ -27,3 +27,4 @@
 - Links: [hola](https://www.hola.com/)
 - Imagen: ![hola](https://t3.ftcdn.net/jpg/06/51/19/14/360_F_651191487_zEM2hHcPX46MiFqndc9cX0ADEh01gU2p.jpg)
 - Imagen con link: [![hola3](https://t3.ftcdn.net/jpg/06/51/19/14/360_F_651191487_zEM2hHcPX46MiFqndc9cX0ADEh01gU2p.jpg)](https://t3.ftcdn.net/jpg/06/51/19/14/360_F_651191487_zEM2hHcPX46MiFqndc9cX0ADEh01gU2p.jpg)
+- Bloques de código: ```hola(hola)```
